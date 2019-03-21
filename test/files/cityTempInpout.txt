@@ -1,0 +1,4 @@
+{
+    "City" : "Norwalk",
+    "Temperature": 88
+}
